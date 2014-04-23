@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intersection_Testing_Kit", "Intersection_Testing_Kit\Intersection_Testing_Kit.vcxproj", "{B390090F-4AD9-4A18-B905-09C7C268341A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B390090F-4AD9-4A18-B905-09C7C268341A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B390090F-4AD9-4A18-B905-09C7C268341A}.Debug|Win32.Build.0 = Debug|Win32
+		{B390090F-4AD9-4A18-B905-09C7C268341A}.Release|Win32.ActiveCfg = Release|Win32
+		{B390090F-4AD9-4A18-B905-09C7C268341A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
